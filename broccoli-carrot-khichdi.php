@@ -1,5 +1,5 @@
 <?php include "header.php" ?>
-
+<!-- comment -->
 <?php include "product-script.php" ?>
 
 <div class="product-description">
