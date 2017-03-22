@@ -1,4 +1,6 @@
-<?php include 'header.php' ?>  
+﻿<?php include 'header.php' ?>  
+
+<!-- comments -->
 
 <div class="bunny-home">
   <div class="container">
